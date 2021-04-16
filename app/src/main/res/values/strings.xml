@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">eNursery</string>
+    <string name="register">Already Have an Account? LOGIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minimum_password">Password </string>
+    <string name="auth_failed">authentication failed!</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826029497754",
+    "project_id": "e-nursery-4fa5e",
+    "storage_bucket": "e-nursery-4fa5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826029497754:android:38074716d10eb691cd2e23",
+        "android_client_info": {
+          "package_name": "com.enursery.rit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826029497754-liipv62l4tq6qbhesba54pd7f89s9u0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOP_t5pn_WuMoFfMEPUiaU_E3wcMeLP_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826029497754-liipv62l4tq6qbhesba54pd7f89s9u0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
